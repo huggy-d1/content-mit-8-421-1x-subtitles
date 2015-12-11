@@ -17,7 +17,7 @@ And these are rotating systems.
 So a system which rotates, well what do you think,
 will it behave using the discussion we
 just, more a classical system or more
-like a kind of mechanical system?
+like a quantum mechanical system?
 
 Of course, I gave you a very special definition
 what brings out quantum mechanics in a system.
